@@ -111,4 +111,4 @@ Not all firewalls offer VPN and not all VPN options are the same.  The general o
 ## Which firewall products support public-to-private NAT and/or private VLAN segmentation?
 {:faq}
 
-None of the Hardware Firewall products have access to the private network. A Network Gateway is required to supply these capabilities in-line and the NetScaler products have access to both the public and private networks.
+Fortigate Security Appliance 10G supports NAT and private VLAN segmentation. The other firewall offerings only support public traffic.
